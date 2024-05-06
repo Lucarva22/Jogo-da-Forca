@@ -1,0 +1,10 @@
+D:\VS2022\Projects\Projeto-JogoDaForca_Lucas\Projeto-JogoDaForca_Lucas\bin\Debug\Projeto-JogoDaForca_Lucas.exe.config
+D:\VS2022\Projects\Projeto-JogoDaForca_Lucas\Projeto-JogoDaForca_Lucas\bin\Debug\Projeto-JogoDaForca_Lucas.exe
+D:\VS2022\Projects\Projeto-JogoDaForca_Lucas\Projeto-JogoDaForca_Lucas\bin\Debug\Projeto-JogoDaForca_Lucas.pdb
+D:\VS2022\Projects\Projeto-JogoDaForca_Lucas\Projeto-JogoDaForca_Lucas\obj\Debug\Projeto-JogoDaForca_Lucas.csproj.AssemblyReference.cache
+D:\VS2022\Projects\Projeto-JogoDaForca_Lucas\Projeto-JogoDaForca_Lucas\obj\Debug\Projeto_JogoDaForca_Lucas.Form1.resources
+D:\VS2022\Projects\Projeto-JogoDaForca_Lucas\Projeto-JogoDaForca_Lucas\obj\Debug\Projeto_JogoDaForca_Lucas.Properties.Resources.resources
+D:\VS2022\Projects\Projeto-JogoDaForca_Lucas\Projeto-JogoDaForca_Lucas\obj\Debug\Projeto-JogoDaForca_Lucas.csproj.GenerateResource.cache
+D:\VS2022\Projects\Projeto-JogoDaForca_Lucas\Projeto-JogoDaForca_Lucas\obj\Debug\Projeto-JogoDaForca_Lucas.csproj.CoreCompileInputs.cache
+D:\VS2022\Projects\Projeto-JogoDaForca_Lucas\Projeto-JogoDaForca_Lucas\obj\Debug\Projeto-JogoDaForca_Lucas.exe
+D:\VS2022\Projects\Projeto-JogoDaForca_Lucas\Projeto-JogoDaForca_Lucas\obj\Debug\Projeto-JogoDaForca_Lucas.pdb
